@@ -10,5 +10,9 @@
     {
         "title": "Hackerrank",
         "link": "https://www.hackerrank.com/domains/java"
+    },
+    {
+        "title": "Intermediate Java Programming by IBM Developer",
+        "link": "https://developer.ibm.com/tutorials/j-intermed/"
     }
 ]
